@@ -18,5 +18,5 @@
 - Get the sound from the hardware and send it to the server.
 
 ## Result
-![image](https://user-images.githubusercontent.com/75492436/220570327-4f11e066-a67b-43b5-9d21-9ee3ed85dc78.png)
-![image](https://user-images.githubusercontent.com/75492436/220570343-8066775e-1327-4714-bdaf-d7068073461a.png)
+- ![image](https://user-images.githubusercontent.com/75492436/220570327-4f11e066-a67b-43b5-9d21-9ee3ed85dc78.png)
+- ![image](https://user-images.githubusercontent.com/75492436/220570343-8066775e-1327-4714-bdaf-d7068073461a.png)
